@@ -1,4 +1,4 @@
-# Lemon Squeexy Basic Payments
+# Lemon Squeezy Basic Payments
 
 A minimalist application meant to demonstrate the basics of using the Lemon Squeexy REST API to connect to an online store
 
